@@ -23,6 +23,6 @@
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="day_one_assignment.md" />
+    <None Include="day1_assignment.md" />
   </ItemGroup>
 </Project>
